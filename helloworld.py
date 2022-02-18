@@ -1,2 +1,2 @@
 print("Hello World")
-print("I am learning a git")
+print("I am learning git")
